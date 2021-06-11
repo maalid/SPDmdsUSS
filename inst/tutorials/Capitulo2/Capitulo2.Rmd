@@ -473,9 +473,9 @@ FALSE
 ```
 
 ```{r ejer_2_7-hint}
-# Respuesta 1
-FALSE 
-TRUE FALSE
+# Respuesta 1 (Elimine los '#' de las siiguientes dos lineas)
+# FALSE 
+# TRUE FALSE
 
 # Respuesta 2
 "por que la segunda linea está incorecta, debe haber un comando ejecutable por línea"

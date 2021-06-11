@@ -337,7 +337,7 @@ alpha > beta & gamma < beta
 alpha > beta | gamma < beta
 
 # Respuesta 3
-shopping_list %in% basket
+lista_de_compras %in% cesta
 ```
 
 <br>
