@@ -473,7 +473,7 @@ FALSE
 ```
 
 ```{r ejer_2_7-hint}
-# Respuesta 1 (Elimine los '#' de las siiguientes dos lineas)
+# Respuesta 1 (Elimine los '#' de las siguientes dos lineas)
 # FALSE 
 # TRUE FALSE
 
