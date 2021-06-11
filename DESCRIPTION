@@ -1,13 +1,12 @@
 Package: SPDmdsUSS
-Title: What the Package Does (One Line, Title Case)
+Title: Material De Clase Para Curso Software Para Data Science - MDS - USS - 2021_15
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Marcelo",
+           family = "Alid",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "maalidvacc@outlook.com")
+Description: Contiene los capítulos, en formato tutorial, a revisar en el curso Software Para Data Science del Magister en Data Science de la Universidad San Sebastian.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
